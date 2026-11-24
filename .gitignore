@@ -1,0 +1,16 @@
+# Python
+/programming/.venv/
+__pycache__/
+*.py[cod]
+
+# Generated figures
+/figures/
+
+# LaTeX build files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
